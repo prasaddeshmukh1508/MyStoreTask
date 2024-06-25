@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prachi\\source\\repos\\MyStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|c:\\users\\prachi\\source\\repos\\mystore\\mystore\\pages\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|c:\\users\\prachi\\source\\repos\\mystore\\mystore\\pages\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|c:\\users\\prachi\\source\\repos\\mystore\\mystore\\pages\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|c:\\users\\prachi\\source\\repos\\mystore\\mystore\\pages\\clients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|c:\\users\\prachi\\source\\repos\\mystore\\mystore\\pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|c:\\users\\prachi\\source\\repos\\mystore\\mystore\\pages\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|c:\\users\\prachi\\source\\repos\\mystore\\mystore\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|c:\\users\\prachi\\source\\repos\\mystore\\mystore\\pages\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4233E75-EA91-4F56-82D5-F85D6FDA1ACE}|MyStore\\MyStore.csproj|solutionrelative:mystore\\pages\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Create.cshtml",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T01:56:58.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Delete.cshtml",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:53:13.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Create.cshtml.cs",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:26:22.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T17:50:16.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Edit.cshtml.cs",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Edit.cshtml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwEIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:58:46.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Edit.cshtml",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T19:31:07.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Index.cshtml.cs",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Index.cshtml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:10:44.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyStore\\Pages\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prachi\\source\\repos\\MyStore\\MyStore\\Pages\\Clients\\Index.cshtml",
+              "RelativeToolTip": "MyStore\\Pages\\Clients\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T09:20:56.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
